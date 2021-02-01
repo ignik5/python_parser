@@ -1,0 +1,16 @@
+python 3.8.5- https://www.python.org/downloads/release/python-385/
+установить через  cmd (win+r)
+pip install tkinter
+pip install requests
+pip install bs4
+pip install configparser
+pip install collections
+при работе с программой нужно вводить ссылку на КОНЕЧНЫЙ КАТАЛОГ сайта Таваго https://tavago.ru из которого вы
+хотите получить данные
+введите количество страниц которое хотите спарсить
+введите название каталога (с этим названием появится фаил.csv
+после выполнения парсинга программой будет сохранен фаил (название каталога".csv") в кодировке UTF-8
+
+
+
+
